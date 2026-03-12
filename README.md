@@ -1,2 +1,6 @@
 Landing page or basic UI created for our project
-Autheentication though firebase
+Autheentication though firebase done.
+
+adding features
+
+
